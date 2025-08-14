@@ -1,4 +1,4 @@
-# 🚀 PocketOption API
+git push -u origin main# 🚀 PocketOption API
 
 [![GitHub](https://img.shields.io/badge/GitHub-AdminhuDev-blue?style=flat-square&logo=github)](https://github.com/AdminhuDev)
 [![Website](https://img.shields.io/badge/Website-Portfolio-green?style=flat-square&logo=google-chrome)](https://adminhudev.github.io)
